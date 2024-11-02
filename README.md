@@ -1,4 +1,4 @@
-# Ai-la-trieu-phu---my-first-simple-project-in-2021
+# Ai-la-trieu-phu(Who is billionaire)---my-first-simple-project-in-2021
 #Details:
 - Author: Dinh Xuan Khuong
 - This is my first project when I first learned python in 2021
